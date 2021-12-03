@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 40px;
+}
+
+.container {
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+  padding: 40px;
+}
+.userListContainer {
+  padding: 20px;
+}
+
+.todoListContainer {
+  padding: 20px;
+}
+input {
+  margin: 10px 0px;
+}
